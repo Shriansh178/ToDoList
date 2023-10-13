@@ -1,0 +1,1 @@
+The React To-Do List with Next.js and Tailwind CSS is a web application that simplifies task management and enhances productivity. This project harnesses the power of modern web technologies to create a user-friendly, responsive, and highly performant to-do list application.
